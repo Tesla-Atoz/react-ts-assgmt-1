@@ -1,0 +1,22 @@
+.form {
+    width: 89%;
+    border: 2px solid red;
+}
+
+input[type="text"]{
+    width: 35%;
+    margin: 30px;
+}
+label{
+    color: blue;
+}
+input[type="number"]{
+    width: 35%;
+    margin: 30px;
+}
+
+button{
+    padding: 10px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
